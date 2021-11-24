@@ -1,0 +1,10 @@
+Package: FakePackage
+Title: This package is Fake
+Version: 0.1.0
+Authors@R: 
+    person("Jed", "Long", , "jed.long@uwo.ca", role = c("aut", "cre"))
+Description: This package is fake, please delete it.
+License: GPL (>=3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
